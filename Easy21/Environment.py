@@ -226,7 +226,5 @@ for i,λ in enumerate(lambda_matrix):
         mse_per_episode_LFA[i,game]= mse
     mse_per_lambda_LFA[i]= mse
 
-#%% Visualizations code for MC, TD, AND LFA
-#Only the Visualizations and the discussion are left!!!! 
 
 
